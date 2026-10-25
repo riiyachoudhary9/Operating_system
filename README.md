@@ -72,3 +72,7 @@ This project helped demonstrate demand paging, page faults and hits, victim-page
 
 ## Reference
 Operating Systems Lab Assignment PDF supplied for this assignment. The implementation and explanations should be reviewed and understood before submission.
+
+# Author
+Name: Riya Choudhary 
+Roll No: BTE25DTA000029
